@@ -1,6 +1,8 @@
 # Logrotate module for Puppet
 
-[![Build Status](https://secure.travis-ci.org/rodjek/puppet-logrotate.png)](http://travis-ci.org/rodjek/puppet-logrotate)
+This module was taken from rodjek-logrotate version 1.1.1
+
+
 
 A more Puppety way of managing logrotate configs.  Where possible, as many of
 the configuration options have remained the same with a couple of notable
