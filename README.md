@@ -1,6 +1,6 @@
 # Logrotate module for Puppet
 
-This module was taken from rodjek-logrotate version 1.1.1
+Module Source: rodjek-logrotate version 1.1.1
 
 
 
